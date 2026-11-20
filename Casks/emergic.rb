@@ -8,10 +8,10 @@
 # ad-hoc signed, not notarised, so the postflight clears the download quarantine and the
 # caveats say so.
 cask "emergic" do
-  version "0.2.5"
-  sha256 "028c767281a3a9b4e6f6825ff930f66d137dabf2f2289195090dcd962abfa27a"
+  version "0.2.6"
+  sha256 "70779ec23b6cb902b7e7651ab3b15ca74a1be06e362348ea94ccb76e40e4b4df"
 
-  url "https://github.com/emergic/emergic-releases/releases/download/v0.2.5/Emergic-macos.zip"
+  url "https://github.com/emergic/emergic-releases/releases/download/v0.2.6/Emergic-macos.zip"
   name "Emergic"
   desc "Office AI chat served by your office's own idle computers"
   homepage "https://github.com/emergic/emergic-releases"
